@@ -1,0 +1,5 @@
+# CatBoost workdir
+catboost_info/
+
+# Python cache
+__pycache__/
